@@ -14,7 +14,7 @@ const client = new line.messagingApi.MessagingApiClient({
 
 // 📌 เปลี่ยนตรงนี้เป็น URL รูปภาพจริงของคุณ (ต้องเป็น HTTPS Direct URL ที่ลงท้ายด้วย .jpg หรือ .png)
 const malfoyImages = [
-  'https://your-website.com/path-to-image-1.jpg', // รูปที่ 1
+  'https://github.com/thunno008-wq/line-bot-malfoy/blob/main/Screenshot_2026-10-13-15-25-22-59_99c04817c0de5652397fc8b56c3b3817.jpg', // รูปที่ 1
   'https://your-website.com/path-to-image-2.jpg'  // รูปที่ 2
 ];
 
